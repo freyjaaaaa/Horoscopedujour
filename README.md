@@ -22,6 +22,7 @@ Ensuite, pour lancer l'app >
   >projetspy/
   -horoscope.py > script python et streamlit
   -h.json > donnée horoscope
+*(il y'a aussi une capture d'écran de l'app :))*
 
 
 # **PS**  
